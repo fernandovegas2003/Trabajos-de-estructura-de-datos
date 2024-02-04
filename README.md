@@ -31,3 +31,5 @@ Trabajos Prácticos en Clases:
 
 Conjunto de ejercicios y soluciones desarrollados durante las clases.
 Incluye aplicaciones prácticas de las estructuras de datos estudiadas
+
+archivos muy grande link de google drive:https://drive.google.com/file/d/1b8JtOJeFS06a9GsHlcwAsBL4MepTWEDr/view?usp=sharing
